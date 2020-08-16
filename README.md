@@ -33,4 +33,4 @@ Set up a stateless switch in HomeBridge pointing to the ESP8266, refreshed my Go
 
 ![final](https://media0.giphy.com/media/S6rch403uXkhebA1om/giphy.gif)
 
-Using the Google Clock app, I can start the coffee machine when my alarm rings in the morning.
+Using the Google Clock app, the coffee machine starts automatically when my alarm rings in the morning.
