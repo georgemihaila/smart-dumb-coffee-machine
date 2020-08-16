@@ -1,0 +1,17 @@
+{
+   "accessories": [
+    {
+            "accessory": "HTTP-SWITCH",
+            "name": "CoffeeMachine",
+            "switchType": "stateless",
+            "onUrl": {
+                "url": "http://MACHINE-STATIC-IP/make-coffee",
+                "method": "POST"
+            },
+            "offUrl": {
+                "url": "http://MACHINE-STATIC-IP/make-coffee",
+                "method": "POST"
+            }
+        }
+   ]
+}
